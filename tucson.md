@@ -103,4 +103,4 @@ How likely are you to get your lost loved ones or items back in Tucson? The data
 
 Do these numbers match your expectations, or did anything here surprise you? Keep an eye out for each other (and our pets), Tucson!
 
-*Data source: [FoundIt Org Lost and Found Dataset](https://founditapp.org/insights/tucson)*
+*Data source: [FoundIt Org Lost and Found Dataset](https://founditapp.org)*
